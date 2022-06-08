@@ -1585,24 +1585,3 @@ a {
   background-color: #000000;
   overflow: hidden;
 }
-.cid-t8ah5XoZmS {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-t8ah5XoZmS .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-@media (min-width: 992px) {
-  .cid-t8ah5XoZmS form {
-    width: 50%;
-  }
-}
-.cid-t8ah5XoZmS form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-t8ah5XoZmS form .mbr-section-btn .btn {
-  width: 100%;
-}
